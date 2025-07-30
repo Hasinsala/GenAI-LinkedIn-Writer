@@ -1,3 +1,16 @@
+
+
+Built for learning purposes by following a tutorial, with modifications and full understanding of the process.
+
+And they have mentioned below content
+
+
+
+
+
+
+
+
 # project-genai-post-generator
 This tool will analyze posts of a LinkedIn influencer and help them create the new posts based on the writing style in their old posts  
 
